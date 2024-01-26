@@ -1,0 +1,24 @@
+{
+  "name": "namaste-react-",
+  "version": "1.0.0",
+  "description": "Namaste React By Swapnil Singh",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swapnil579/Namaste-React-.git"
+  },
+  "keywords": [
+    "React",
+    "Namaste",
+    "React"
+  ],
+  "author": "Swapnil Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swapnil579/Namaste-React-/issues"
+  },
+  "homepage": "https://github.com/Swapnil579/Namaste-React-#readme"
+}
